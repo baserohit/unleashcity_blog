@@ -1,6 +1,6 @@
 # Unleash City Blog
 
-## Check Out the [Live Site](https://unleashcity-blog.vercel.app/)
+## [Live Site](https://unleashcity-blog.vercel.app/)
 
 ## Deploy your own
 
